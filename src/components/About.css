@@ -1,0 +1,58 @@
+.cont{
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 40%;
+}
+
+.startFullHeight {
+    height: 95vh;
+    
+  }
+
+  .header-title{
+      font-size: 80px;
+      padding-right: 10%;
+      padding-left: 10%;
+      padding-top: 20%;
+  }
+
+  .paragraph-style{
+      font-size: 30px;
+      padding-right: 10%;
+      padding-left: 10%;
+      color: rgba(0,0,0,.5);
+
+  }
+
+  .fadeIn {
+    animation: fadein 2s ease-out;
+  }
+  
+  @keyframes fadein {
+    from {opacity: 0}
+    to {opacity: 1}
+    }
+  
+  .flex{
+      display: flex;
+      justify-content: space-evenly;
+      flex-wrap: wrap;
+  }
+
+  .background-color{
+    background-color: #F8F7F7;
+  }
+
+  .big-logo-container{
+      padding-bottom: 40px;
+      padding-top: 35px;
+      padding-left: 15px;
+      padding-right: 15px;
+  }
+
+  .small-logo-container{
+      padding-top: 10px;
+      padding-bottom: 10px;
+  }
+
+

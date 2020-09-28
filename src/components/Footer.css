@@ -1,0 +1,30 @@
+.sticky-footer{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    height: 70px;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.border-up{
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: rgba(0,0,0,.125);
+}
+
+a{
+    margin-right: 10px;
+    text-decoration: none!important;
+    color: inherit
+}
+
+.light-grey{
+    color: rgba(0,0,0,.5);
+}
+
+.background-white{
+    background-color: white;
+}

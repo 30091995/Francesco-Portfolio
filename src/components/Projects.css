@@ -1,0 +1,72 @@
+
+.startFullHeight {
+    height: 120vh;
+    overflow: hidden;
+    padding-left: 100px;
+    
+  }
+
+  .small-height{
+      height: 40vh;
+      width: 90%;
+  }
+
+  .link-color{
+    color: #17a2b8!important;
+}
+
+.header2{
+    font-size: 45px;
+    text-align: center;
+}
+
+.border-up{
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: rgba(0,0,0,.125);
+}
+
+.background-color{
+    background-color: #F8F7F7;
+}
+
+.container-text{
+    color: rgba(0,0,0,.5);
+    font-size: 18px;
+    text-align: center;
+}
+
+.fadeIn {
+    animation: fadein 2s ease-in;
+  }
+
+.fadeIn4{
+    animation: fadein 4s ease-in;   
+}
+
+.fadeIn7{
+    animation: fadein 7s ease-in;
+}
+  
+  @keyframes fadein {
+    from {opacity: 0}
+    to {opacity: 1}
+    }
+
+    @keyframes fadeIn5 {
+        from {opacity: 0}
+        to {opacity: 1}
+        }
+
+        @keyframes fadeIn8 {
+            from {opacity: 0}
+            to {opacity: 1}
+            }
+
+
+.shifted-down{
+    padding-top: 30px;
+}
+
+
+

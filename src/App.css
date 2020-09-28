@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.fadeIn {
+  animation: fadein 2s ease-out;
+}
+
+@keyframes fadein {
+  from {opacity: 0}
+  to {opacity: 1}
+  }

@@ -1,0 +1,18 @@
+.box{
+    padding-left: 80px;
+    padding-right: 40px;
+    padding-top: 10px;
+}
+.border-down{
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: rgba(0,0,0,.125);
+}
+
+.small-container{
+    padding-left: 30px;
+}
+
+.link-color{
+    color: #17a2b8!important;
+}
