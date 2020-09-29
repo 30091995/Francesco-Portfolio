@@ -1,16 +1,14 @@
 
 .startFullHeight {
-    height: 130vh;
     overflow: hidden;
-    padding-left: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     
   }
 
   .small-height{
-      height: 40vh;
       width: 90%;
-      margin-top: 30px;
-      margin-bottom: 30px;
   }
 
   .link-color{
@@ -67,7 +65,14 @@
 
 
 .shifted-down{
-    padding-top: 30px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.little-box{
+    padding-top: 10px;
+    padding-bottom: 10px;
+
 }
 
 
