@@ -13,7 +13,7 @@ function Projects() {
                 <Row className="small-height align-items-center justify-content-center text-center fadeIn shifted-down">
                     <Col lg="6">
                     <p className="container-text text-monospace">Record box is a digitized vinyl library to organize all the records in your collection</p>
-                    <a target="_blank" href="https://record-box.herokuapp.com/"className="link-color">Click here to check it out!</a>
+                    <a href="https://record-box.herokuapp.com/"className="link-color">Click here to check it out!</a>
                     </Col>
                     <Col lg="6"className="text-center">
                     <h2 className="header2 link-color">Record box</h2>
@@ -26,14 +26,14 @@ function Projects() {
                     </Col>
                     <Col lg="6">
                     <p className="container-text text-monospace">You want a cat but you don't know where to start from? The cat app is perfect for you!</p>
-                    <a target="_blank" href="https://the-cat-app.herokuapp.com/"className="link-color">Click here to check it out!</a>
+                    <a  href="https://the-cat-app.herokuapp.com/"className="link-color">Click here to check it out!</a>
                     </Col>
                 </Row>
 
                 <Row className="small-height align-items-center justify-content-center text-center border-up fadeIn7 shifted-down">
                     <Col lg="6">
                     <p className="container-text text-monospace">Run, run, Run and jump between obstacles. If you touch the lava, you're dead!</p>
-                    <a target="_blank" href="https://happy-galileo-040424.netlify.app/"className="link-color">Click here to check it out!</a>
+                    <a href="https://happy-galileo-040424.netlify.app/"className="link-color">Click here to check it out!</a>
                     </Col>
                     <Col lg="6">
                     <h2 className="header2 link-color">The floor is lava</h2>

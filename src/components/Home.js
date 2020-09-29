@@ -2,7 +2,6 @@ import React from 'react'
 import { Link } from "react-router-dom";
 import { Container, Row, Col } from "reactstrap";
 import "./Home.css"
-import Footer from './Footer';
 
 function Home ()
 {

@@ -1,9 +1,7 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import NavigationBar from './components/NavigationBar'
-import { Router } from 'react-router-dom';
-import { Switch, Route, Redirect } from 'react-router-dom'
+
+import { Switch, Route} from 'react-router-dom'
 import Home from './components/Home';
 import About from './components/About';
 import Projects from './components/Projects'

@@ -24,12 +24,12 @@ function About (){
                 </Row>
             </Container>
             <div className="flex background-color big-logo-container">
-                <div className="small-logo-container"><img src="./logosjhc.png" width="250px" /></div>
-                <div className="small-logo-container"><img src="./react-logo.png" width="150px"/></div>
-                <div className="small-logo-container"><img src="./nodelogo.png" width="150px"/></div>
-                <div className="small-logo-container"><img src="./reduxlogo.png" width="100px" /></div>
-                <div className="small-logo-container"><img src="./javascriptlogo.png" width="100px" style={{marginLeft:"10px", marginRight: "10px"}} /></div>
-                <div className="small-logo-container"><img src="./mongodblogo.png" width="100" /></div>
+                <div className="small-logo-container"><img src="./logosjhc.png" width="250px" alt="not found"/></div>
+                <div className="small-logo-container"><img src="./react-logo.png" width="150px" alt="not found"/></div>
+                <div className="small-logo-container"><img src="./nodelogo.png" width="150px" alt="not found"/></div>
+                <div className="small-logo-container"><img src="./reduxlogo.png" width="100px" alt="not found"/></div>
+                <div className="small-logo-container"><img src="./javascriptlogo.png" width="100px" alt="not found" style={{marginLeft:"10px", marginRight: "10px"}} /></div>
+                <div className="small-logo-container"><img src="./mongodblogo.png" width="100"  alt="not found"/></div>
             </div>
             <div>
             <Footer />
