@@ -10,7 +10,7 @@ function Projects() {
         <div className="background-color">
             <NavigationBar />
             <Container fluid className="startFullHeight">
-                <Row className="small-height align-items-center justify-content-center text-center fadeIn shifted-down">
+                <Row className="small-height align-items-center justify-content-center text-center fadeIn ">
                     <Col lg="6">
                     <p className="container-text text-monospace">Record box is a digitized vinyl library to organize all the records in your collection</p>
                     <a href="https://record-box.herokuapp.com/"className="link-color">Click here to check it out!</a>
@@ -20,7 +20,7 @@ function Projects() {
                     </Col>
                 </Row>
 
-                <Row className="small-height align-items-center justify-content-center text-center border-up fadeIn4 shifted-down">
+                <Row className="small-height align-items-center justify-content-center text-center border-up fadeIn4 ">
                     <Col lg="6">
                     <h2 className="header2 link-color">The cat app</h2>
                     </Col>
@@ -30,7 +30,7 @@ function Projects() {
                     </Col>
                 </Row>
 
-                <Row className="small-height align-items-center justify-content-center text-center border-up fadeIn5 shifted-down">
+                <Row className="small-height align-items-center justify-content-center text-center border-up fadeIn5 ">
                     <Col lg="6">
                     <p className="container-text text-monospace">Run, run, Run and jump between obstacles. If you touch the lava, you're dead!</p>
                     <a href="https://happy-galileo-040424.netlify.app/"className="link-color">Click here to check it out!</a>
