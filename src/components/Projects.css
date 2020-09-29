@@ -1,6 +1,6 @@
 
 .startFullHeight {
-    height: 120vh;
+    height: 130vh;
     overflow: hidden;
     padding-left: 100px;
     
@@ -9,8 +9,8 @@
   .small-height{
       height: 40vh;
       width: 90%;
-      padding-top: 20px;
-      padding-bottom: 20px;
+      margin-top: 30px;
+      margin-bottom: 30px;
   }
 
   .link-color{
