@@ -30,7 +30,7 @@ function Projects() {
                     </Col>
                 </Row>
 
-                <Row className="small-height align-items-center justify-content-center text-center border-up fadeIn7 shifted-down">
+                <Row className="small-height align-items-center justify-content-center text-center border-up fadeIn5 shifted-down">
                     <Col lg="6">
                     <p className="container-text text-monospace">Run, run, Run and jump between obstacles. If you touch the lava, you're dead!</p>
                     <a href="https://happy-galileo-040424.netlify.app/"className="link-color">Click here to check it out!</a>

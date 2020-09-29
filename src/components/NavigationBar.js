@@ -12,8 +12,8 @@ function NavigationBar() {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="mr-auto">
-                    <Nav.Link to={"/about"}>About</Nav.Link>
-                    <Nav.Link to={"/projects"}>Projects</Nav.Link>
+                    <Nav.Link><Link to={"/about"} style={{textDecoration: "none"}}>About</Link></Nav.Link>
+                    <Nav.Link><Link to={"/projects"} style={{textDecoration: "none"}}>Projects</Link></Nav.Link>
                 </Nav>
                 </Navbar.Collapse>
             </Navbar>

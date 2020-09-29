@@ -9,7 +9,7 @@ function About (){
     return(
         <div className="fadeIn">
             <NavigationBar />
-            <Container fluid className="startFullHeight background-color">
+            <Container fluid className="startFullHeightAbout background-color">
                 <Row className="h-100">
                     <Col lg={8} className="justify-content-center">
                     <h2 className="text-info header-title">

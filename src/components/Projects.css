@@ -44,8 +44,8 @@
     animation: fadein 4s ease-in;   
 }
 
-.fadeIn7{
-    animation: fadein 7s ease-in;
+.fadeIn5{
+    animation: fadein 5s ease-in;
 }
   
   @keyframes fadein {
