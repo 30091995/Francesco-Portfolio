@@ -1,13 +1,12 @@
-import React from 'react'
+import React from "react";
 import { Link } from "react-router-dom";
 import { Container, Row, Col } from "reactstrap";
-import "./Home.css"
+import "./Home.css";
 
-function Home ()
-{
-    return(
-        <div >
-        <Container fluid className="startFull">
+export function Home() {
+  return (
+    <div>
+      <Container fluid className="startFull">
         <Row className="h-100 align-items-center justify-content-center">
           <Col xs="10" md="auto" className="fadeIn text-center">
             <Col className="display-4 text-info">Francesco Saccone</Col>
@@ -24,9 +23,6 @@ function Home ()
           </Col>
         </Row>
       </Container>
-      </div>
-      
-    )
+    </div>
+  );
 }
-
-export default Home
